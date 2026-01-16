@@ -9,7 +9,9 @@ using System.Text;
 namespace HRLib
 {
     public class ConfirmEmployee : Employee
+
     {
+        // Git test
         private double basic;
 
         public double Basic

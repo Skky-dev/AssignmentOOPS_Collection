@@ -6,12 +6,14 @@ namespace HRLib
 {
     public class Trainee : Employee
     {
+        // GIT test
 		private int noOfDays;
 
 		public int NoOfDays
 		{
 			get { return noOfDays; }
 			set { noOfDays = value; }
+
 		}
 
 		private double ratePerDay;
